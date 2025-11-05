@@ -46,6 +46,17 @@ This repository is part of the official closure of the **Agentic Postgres Challe
 
 ---
 
+## 🎥 REMI Demo – English Version
+
+This demo marks the official closure of REMI’s first technical cycle.  
+Validated by Ramón Rivas.  
+Produced under MintBridge XFCE v1.0.  
+This artifact consolidates identity, purpose, and legacy.  
+REMI is alive.
+
+🔗 [Watch the demo](https://github.com/Jramone3/REMI-agentic-patrimonial/blob/main/demo_remi_final.mp4)
+
+
 ## 🔏 Technical Signature
 
 > “What is preserved with intention becomes legacy.  
